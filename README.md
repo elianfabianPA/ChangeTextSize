@@ -7,4 +7,6 @@ Hemos hecho uso del componente seekBar y creado nuestra propia clase
 Application en la cual hemos guardado información para usarla a según
 nuestras requerimientos.
 
+<br>
+
 <img src="img/change-size-text-screenshot.jpg" width="500"/>

@@ -9,4 +9,4 @@ nuestras requerimientos.
 
 <br>
 
-<img src="img/change-size-text-screenshot.jpg" width="500"/>
+<img src="img/change-size-text-screenshot.jpg" width="350"/>
